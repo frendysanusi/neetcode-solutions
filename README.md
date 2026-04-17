@@ -9,8 +9,9 @@ Solutions to [NeetCode](https://neetcode.io/) problems in C++.
 | 01 | Arrays & Hashing | 14 |
 | 02 | Stack | 7 |
 | 03 | Two Pointers | 4 |
+| 04 | Sliding Window | 2 |
 
-**Total: 25 problems solved**
+**Total: 27 problems solved**
 
 ## Structure
 
@@ -60,3 +61,10 @@ Solutions to [NeetCode](https://neetcode.io/) problems in C++.
 | 02 | Valid Palindrome II | Easy | [cpp](03-two-pointers/02-valid-palindrome-ii.cpp) |
 | 03 | Two Sum II - Input Array Is Sorted | Medium | [cpp](03-two-pointers/03-two-sum-ii-input-array-is-sorted.cpp) |
 | 04 | 3Sum | Medium | [cpp](03-two-pointers/04-3-sum.cpp) |
+
+### 04 - Sliding Window
+
+| # | Problem | Level | Solution |
+|---|---------|-------|----------|
+| 01 | Best Time to Buy And Sell Stock | Easy | [cpp](04-sliding-window/01-best-time-to-buy-and-sell-stock.cpp) |
+| 02 | Longest Substring Without Repeating Characters | Medium | [cpp](04-sliding-window/02-longest-substring-without-repeating-characters.cpp) |
