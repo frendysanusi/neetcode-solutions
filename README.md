@@ -9,9 +9,9 @@ Solutions to [NeetCode](https://neetcode.io/) problems in C++.
 | 01 | Arrays & Hashing | 14 |
 | 02 | Stack | 7 |
 | 03 | Two Pointers | 4 |
-| 04 | Sliding Window | 2 |
+| 04 | Sliding Window | 4 |
 
-**Total: 27 problems solved**
+**Total: 29 problems solved**
 
 ## Structure
 
@@ -68,3 +68,5 @@ Solutions to [NeetCode](https://neetcode.io/) problems in C++.
 |---|---------|-------|----------|
 | 01 | Best Time to Buy And Sell Stock | Easy | [cpp](04-sliding-window/01-best-time-to-buy-and-sell-stock.cpp) |
 | 02 | Longest Substring Without Repeating Characters | Medium | [cpp](04-sliding-window/02-longest-substring-without-repeating-characters.cpp) |
+| 03 | Longest Repeating Character Replacement | Medium | [cpp](04-sliding-window/03-longest-repeating-character-replacement.cpp) |
+| 04 | Permutation In String | Medium | [cpp](04-sliding-window/04-permutation-in-string.cpp) |
