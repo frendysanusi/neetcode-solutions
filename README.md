@@ -1,6 +1,6 @@
 # NeetCode Solutions
 
-Solutions to [NeetCode](https://neetcode.io/) problems in C++.
+My solutions to [NeetCode](https://neetcode.io/) problems.
 
 ## Progress
 
@@ -9,9 +9,9 @@ Solutions to [NeetCode](https://neetcode.io/) problems in C++.
 | 01 | Arrays & Hashing | 14 |
 | 02 | Stack | 7 |
 | 03 | Two Pointers | 4 |
-| 04 | Sliding Window | 4 |
+| 04 | Sliding Window | 5 |
 
-**Total: 29 problems solved**
+**Total: 30 problems solved**
 
 ## Structure
 
@@ -70,3 +70,4 @@ Solutions to [NeetCode](https://neetcode.io/) problems in C++.
 | 02 | Longest Substring Without Repeating Characters | Medium | [cpp](04-sliding-window/02-longest-substring-without-repeating-characters.cpp) |
 | 03 | Longest Repeating Character Replacement | Medium | [cpp](04-sliding-window/03-longest-repeating-character-replacement.cpp) |
 | 04 | Permutation In String | Medium | [cpp](04-sliding-window/04-permutation-in-string.cpp) |
+| 05 | Minimum Window Substring | Hard | [cpp](04-sliding-window/05-minimum-window-substring.cpp) |
