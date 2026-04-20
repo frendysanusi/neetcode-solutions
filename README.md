@@ -10,8 +10,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 02 | Stack | 7 |
 | 03 | Two Pointers | 4 |
 | 04 | Sliding Window | 5 |
+| 05 | Linked List | 4 |
 
-**Total: 30 problems solved**
+**Total: 34 problems solved**
 
 ## Structure
 
@@ -71,3 +72,12 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 03 | Longest Repeating Character Replacement | Medium | [cpp](04-sliding-window/03-longest-repeating-character-replacement.cpp) |
 | 04 | Permutation In String | Medium | [cpp](04-sliding-window/04-permutation-in-string.cpp) |
 | 05 | Minimum Window Substring | Hard | [cpp](04-sliding-window/05-minimum-window-substring.cpp) |
+
+### 05 - Linked List
+
+| # | Problem | Level | Solution |
+|---|---------|-------|----------|
+| 01 | Reverse Linked List | Easy | [cpp](05-linked-list/01-reverse-linked-list.cpp) |
+| 02 | Merge Two Sorted Linked Lists | Easy | [cpp](05-linked-list/02-merge-two-sorted-lists.cpp) |
+| 03 | Linked List Cycle Detection | Easy | [cpp](05-linked-list/03-linked-list-cycle.cpp) |
+| 04 | Reorder Linked List | Medium | [cpp](05-linked-list/04-reorder-list.cpp) |
