@@ -10,9 +10,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 02 | Stack | 7 |
 | 03 | Two Pointers | 4 |
 | 04 | Sliding Window | 5 |
-| 05 | Linked List | 4 |
+| 05 | Linked List | 5 |
 
-**Total: 34 problems solved**
+**Total: 35 problems solved**
 
 ## Structure
 
@@ -77,7 +77,8 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 
 | # | Problem | Level | Solution |
 |---|---------|-------|----------|
-| 01 | Reverse Linked List | Easy | [cpp](05-linked-list/01-reverse-linked-list.cpp) |
+| 01 | Reverse Linked List | Easy | [cpp](05-linked-list/01-reverse-linked-list.cpp), [py](05-linked-list/01-reverse-linked-list.py) |
 | 02 | Merge Two Sorted Linked Lists | Easy | [cpp](05-linked-list/02-merge-two-sorted-lists.cpp) |
 | 03 | Linked List Cycle Detection | Easy | [cpp](05-linked-list/03-linked-list-cycle.cpp) |
 | 04 | Reorder Linked List | Medium | [cpp](05-linked-list/04-reorder-list.cpp) |
+| 05 | Remove Nth Node From End of List | Medium | [py](05-linked-list/05-remove-nth-node-from-end-of-list.py) |
