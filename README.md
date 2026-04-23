@@ -11,8 +11,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 03 | Two Pointers | 4 |
 | 04 | Sliding Window | 5 |
 | 05 | Linked List | 7 |
+| 06 | Trees | 4 |
 
-**Total: 37 problems solved**
+**Total: 41 problems solved**
 
 ## Structure
 
@@ -84,3 +85,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 05 | Remove Nth Node From End of List | Medium | [py](05-linked-list/05-remove-nth-node-from-end-of-list.py) |
 | 06 | Copy List With Random Pointer | Medium | [py](05-linked-list/06-copy-list-with-random-pointer.py) |
 | 07 | Add Two Numbers | Medium | [py](05-linked-list/07-add-two-numbers.py) |
+
+### 06 - Trees
+| 01 | Invert Binary Tree | Easy | [py](06-trees/01-invert-binary-tree.py) |
+| 02 | Maximum Depth of Binary Tree | Easy | [py](06-trees/02-maximum-depth-of-binary-tree.py) |
+| 03 | Diameter of Binary Tree | Easy | [py](06-trees/03-diameter-of-binary-tree.py) |
+| 04 | Balanced Binary Tree | Easy | [py](06-trees/04-balanced-binary-tree.py) |
