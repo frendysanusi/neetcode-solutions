@@ -11,9 +11,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 03 | Two Pointers | 4 |
 | 04 | Sliding Window | 5 |
 | 05 | Linked List | 7 |
-| 06 | Trees | 6 |
+| 06 | Trees | 8 |
 
-**Total: 43 problems solved**
+**Total: 45 problems solved**
 
 ## Structure
 
@@ -95,3 +95,5 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 04 | Balanced Binary Tree | Easy | [py](06-trees/04-balanced-binary-tree.py) |
 | 05 | Same Binary Tree | Easy | [py](06-trees/05-same-binary-tree.py) |
 | 06 | Subtree of Another Tree | Easy | [py](06-trees/06-subtree-of-another-tree.py) |
+| 07 | Lowest Common Ancestor in Binary Search Tree | Medium | [py](06-trees/07-lowest-common-ancestor-in-binary-search-tree.py) |
+| 08 | Binary Tree Level Order Traversal | Medium | [py](06-trees/08-binary-tree-level-order-traversal.py) |
