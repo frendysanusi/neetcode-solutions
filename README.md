@@ -12,8 +12,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 04 | Sliding Window | 5 |
 | 05 | Linked List | 7 |
 | 06 | Trees | 8 |
+| 07 | Backtracking | 3 |
 
-**Total: 45 problems solved**
+**Total: 48 problems solved**
 
 ## Structure
 
@@ -97,3 +98,10 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 06 | Subtree of Another Tree | Easy | [py](06-trees/06-subtree-of-another-tree.py) |
 | 07 | Lowest Common Ancestor in Binary Search Tree | Medium | [py](06-trees/07-lowest-common-ancestor-in-binary-search-tree.py) |
 | 08 | Binary Tree Level Order Traversal | Medium | [py](06-trees/08-binary-tree-level-order-traversal.py) |
+
+### 07 - Backtracking
+| # | Problem | Level | Solution |
+|---|---------|-------|----------|
+| 01 | Subsets | Medium | [py](07-backtracking/01-subsets.py) |
+| 02 | Combination Sum | Medium | [py](07-backtracking/02-combination-sum.py) |
+| 03 | Combination Sum II | Medium | [py](07-backtracking/03-combination-sum-ii.py) |
