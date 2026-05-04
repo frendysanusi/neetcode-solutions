@@ -12,9 +12,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 04 | Sliding Window | 5 |
 | 05 | Linked List | 7 |
 | 06 | Trees | 8 |
-| 07 | Backtracking | 4 |
+| 07 | Backtracking | 6 |
 
-**Total: 49 problems solved**
+**Total: 51 problems solved**
 
 ## Structure
 
@@ -106,3 +106,5 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 02 | Combination Sum | Medium | [py](07-backtracking/02-combination-sum.py) |
 | 03 | Combination Sum II | Medium | [py](07-backtracking/03-combination-sum-ii.py) |
 | 04 | Permutations | Medium | [py](07-backtracking/04-permutations.py) |
+| 05 | Subsets II | Medium | [py](07-backtracking/05-subsets-ii.py) |
+| 06 | Generate Parentheses | Medium | [py](07-backtracking/06-generate-parentheses.py) |
