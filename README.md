@@ -13,8 +13,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 05 | Linked List | 7 |
 | 06 | Trees | 8 |
 | 07 | Backtracking | 6 |
+| 08 | Graph | 3 |
 
-**Total: 51 problems solved**
+**Total: 54 problems solved**
 
 ## Structure
 
@@ -108,3 +109,10 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 04 | Permutations | Medium | [py](07-backtracking/04-permutations.py) |
 | 05 | Subsets II | Medium | [py](07-backtracking/05-subsets-ii.py) |
 | 06 | Generate Parentheses | Medium | [py](07-backtracking/06-generate-parentheses.py) |
+
+### 08 - Graph
+| # | Problem | Level | Solution |
+|---|---------|-------|----------|
+| 01 | Number of Islands | Medium | [py](08-graph/01-number-of-islands.py) |
+| 02 | Max Area of Island | Medium | [py](08-graph/02-max-area-of-island.py) |
+| 03 | Clone Graph | Medium | [py](08-graph/03-clone-graph.py) |
