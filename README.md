@@ -14,8 +14,9 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 06 | Trees | 8 |
 | 07 | Backtracking | 6 |
 | 08 | Graph | 3 |
+| 09 | Heap | 1 |
 
-**Total: 54 problems solved**
+**Total: 55 problems solved**
 
 ## Structure
 
@@ -116,3 +117,8 @@ My solutions to [NeetCode](https://neetcode.io/) problems.
 | 01 | Number of Islands | Medium | [py](08-graph/01-number-of-islands.py) |
 | 02 | Max Area of Island | Medium | [py](08-graph/02-max-area-of-island.py) |
 | 03 | Clone Graph | Medium | [py](08-graph/03-clone-graph.py) |
+
+### 09 - Heap / Priority Queue
+| # | Problem | Level | Solution |
+|---|---------|-------|----------|
+| 01 | Kth Largest Element In a Stream  | Easy | [py](09-heap/01-kth-largest-element-in-a-stream.py) |
